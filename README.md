@@ -1,5 +1,7 @@
 # README #
 
+**DEPRECATED:** new version (4.4 or older): https://github.com/Mickaelh51/bash-autoinstaller-active-syslog
+
 Installer for patch bash 4.3.30 with syslog module and be able to **show the real username**
 
 ### What is this repository for? ###
